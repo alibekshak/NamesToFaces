@@ -14,6 +14,7 @@
 		183167F32B2022AF007BBDD8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 183167F22B2022AF007BBDD8 /* Assets.xcassets */; };
 		183167F62B2022AF007BBDD8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 183167F42B2022AF007BBDD8 /* LaunchScreen.storyboard */; };
 		183167FE2B202534007BBDD8 /* PersonCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183167FD2B202534007BBDD8 /* PersonCell.swift */; };
+		183168002B22D7DA007BBDD8 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 183167FF2B22D7DA007BBDD8 /* Person.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		183167F52B2022AF007BBDD8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		183167F72B2022AF007BBDD8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		183167FD2B202534007BBDD8 /* PersonCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonCell.swift; sourceTree = "<group>"; };
+		183167FF2B22D7DA007BBDD8 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				183167E92B2022AD007BBDD8 /* AppDelegate.swift */,
 				183167EB2B2022AD007BBDD8 /* SceneDelegate.swift */,
 				183167ED2B2022AD007BBDD8 /* ViewController.swift */,
+				183167FF2B22D7DA007BBDD8 /* Person.swift */,
 				183167FD2B202534007BBDD8 /* PersonCell.swift */,
 				183167EF2B2022AD007BBDD8 /* Main.storyboard */,
 				183167F22B2022AF007BBDD8 /* Assets.xcassets */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				183168002B22D7DA007BBDD8 /* Person.swift in Sources */,
 				183167EE2B2022AD007BBDD8 /* ViewController.swift in Sources */,
 				183167EA2B2022AD007BBDD8 /* AppDelegate.swift in Sources */,
 				183167FE2B202534007BBDD8 /* PersonCell.swift in Sources */,
